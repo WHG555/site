@@ -1,53 +1,53 @@
 [
   {
     "name": "站内",
-    "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/logo.png",
+    "icon": "https://whg555.github.io/site/assets/logo.png",
     "placeholder": "站内搜索",
     "blocked": false
   },
   {
     "name": "百度",
     "url": "https://www.baidu.com/s?wd=",
-    "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/baidu.svg",
+    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAACJElEQVQ4jW2SS0hUcRTGf+c/d2Z8ZONYkRqTQrkoi8hNLUoIolKSNkkEQetsUUGrIigqKIJa2APScBGFUQj2hEQQRSyLMBMjEgVBHUNyHBzxjvf+T4vxEdG3OpwH3znn+0RVWYIqIv/GVjGykjHLZWsRIZ6k+TPJeURwPeJJjKC6Mm8yBFbxLL7lxntONfOgE9fj7AsO3aNnGMBaMp1GBFUChpCDbxkYp3A1w1O0/6BriJRL6zc8i9VFHpPZZPQ3jd3MulTEGEuwrZhVYVIuaY+9mwgGCDqIIAK+r76vdc0aPa+nn+lEQh9/1PSCqurdDn3Sqz3DeqddR6ZUVX1fRVVTLvvrcT2M0HmOnBDf42QHKV0DUH2f3hFqdtBwHGMw1pIVZHcpEzNUxMgJcfUdRxuobaS1H2v5lSRWwM9J0h5GcBACwqUqKsuoLufpJ55/oTjC+AxX3rI+j8oyWvqoKicrhLWIqi7/uKmHm22c3MWaXG63kxsmL8z1I6zNpaSAsLOkQ+bBt9p4M8CjE9TuJD+Hi1UU53OthsuvmZ4jK7ikgypGiCdp+kBdJa/6edhNNJuNURJzlBcxm+bCS+Y9Moo5KiB4PtbydYyDW/Es0ymK8jmzj0CAcIC5NL6POACOAWspinB4O/Ud7NnMhgiDcRxD2Tpa+hid5lgF2cFFs4m1CojgWbqGmExSGKGkgAWfwQnGEsSiHNiycoNk7P23sf+L5YY/ohELy8LXoboAAAAASUVORK5CYII=",
     "placeholder": "百度一下",
     "blocked": false
   },
   {
     "name": "Google",
     "url": "https://www.google.com/search?q=",
-    "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/google.svg",
+    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACIklEQVQ4jYWSS0iUURTHf/fe8RvHooE2VlT2FNqUGWmNEYUR9lhEEVJhUIsoXOQuap1Rq6KHNQt3LaPAIOxhlNTChUwLMU3NR1CklUzg6xvPd1ro2KhTHjjcA/e8/uf/hzmmqsUiEheRLhHxp/2TiDxQ1aK5+ZmFeSJSrwuYiMRVNZKuMxnFz51zu9T3GX/6iPGmRqS/F5WAUMEawuUVRI5UYjwPEWl2zlUYY8YMgIjUW2vPBkPfSV6uYbKvJ+uW3rZSojfuABAEQdw5d96oajHQqr7P8IUqpL8X43lEjp3EK4mBtfgt75l4+4po7U3cytWZPbcyjUlTidv642ipDu7foX7bh2zgs92jDhHpUlWdbNmuEw15OvqweqE7ZjboCAEFADrSjs1LkRM7NAt3+bWRebfYudFx9XguwFqbwePs9z/mT/6NLdAHMBpex28W0/C1Y1Zy05VFM75nUwiAZVGT/v5sgdcA3UurOPUrxvXOFhJD7fOmdn4LeNc5NbpkfWimv5mWZ8KXFKdfXqInOYBnc6gsPEjZ8mKssbQOtvEkMczYl0oK8z3un4lgppbYkhZS3Fp7bnD0Jxeba+lODmTFviFcxq29NeRHDUEQ1DnnqtNSjohIo3Nutx+keNz9gmf9zfQkB0ChYMkK9q2KcaLwMJFQGFV9Y4w5YIwZzyBBI2lRLcD9PVXN/SdFqlokInUi0iEiE9P+UUTuqurmufl/AKTzsFGmvUNUAAAAAElFTkSuQmCC",
     "blocked": false
   },
   {
     "name": "必应",
     "url": "https://cn.bing.com/search?q=",
-    "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/bing.svg",
+    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABrklEQVQ4jc2Sv0tbURTHv+fea9575of1L3DoJGLb2ckfi/EHuGQUArUZCi/QTu0grbTibKBLClooOOhQcIiDJNEO4tAllAwOBqSLOoh5fSaa5N3TIUlNQkg7dOh3O5fz/dzvORzg3+utAJjua6b629/p3hjdNGGnjHZQL0ND/tj+qOxX70jr+XqH+lIruys3ydnvPQBMALHv+eGwZchj6JrBrJMA1wTJZ0xKl6uVscqHyXyztwlom82U1TUSsoJyacRJTMadxNRL/uk+JiHIlLzWLXQDQIzYtz6SvrC+cz8XkzOniOR9CKeM4sZcQVduPhGpaYRTBgDuAgDw41KAmQAoAIB7RggM1ZsZHgCBgNtmbs1DADgUT+8KZY3z9dWT4sZcAQAG7PRD8vV/1dVSxklMLXbuQDWWCIBw69FrS/ARBQO5UDz9UbDoY/BTMgcsuiudAwAiOwI78DoT/JZ/ae+R8ltvwN4CIASDt6D5QvofvPBunWVnfeJ9p6dFLcdipwxEs2azDMUPlgdf5ThoZ1a7fdyiLqcc2ZYAELQzqyE7c4LxrOoB+EO6Buz/0S85h5rvF5Z4ogAAAABJRU5ErkJggg==",
     "blocked": false
   },
   {
     "name": "搜狗",
     "url": "https://www.sogou.com/web?query=",
-    "icon":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAC4ElEQVQ4jW2TX2jVdRjGP+/v+zvbTuyE/6a4wpGrIdUuAi1SikBwozvTkZwrrZlEOrQFEkaMQiqJ1oouZjWCwsAouwhaqSBiUBd1kV5s05YyBCmDtXPOdn7n+3vft4stCfK5fXkuns/zPgLgIAIO4O92P47IAOY9JLRiDplWMR/H9H155fL5/3qEJflQ+x2sWj0C9NPQCdRPYfobGJh3YmxH2EAjHufv3w/KMAsA4iCMthfJ2r4jsIm69svgpc+4jfy19WVgjKg/Eq71MkSWCrjXVr1HE48wW98oRyZ/9SdI2XpPJ5quQXOnSW6g09fk1ekTPtj+C8VwkdpdI8L1feLHHthCS7hArVGWlyc+96Nd/SSyn1y7KUhCQ8EdMq1h9j1e20M93UZLepJqtjnFeZH5OLVovreHIB+CQ7RJor5O9Ax8HdgmzLuxQoeM/PGFDbRNImEwxWwbZh8AEL2DoFC3iGokZ5Y/58/L2M3KLQ5L3PJoXwb8QIJ4K3mcXDzrSSr5t2AFWuRBiv4NK5pv+ktrL/ih1YO+e9mypepcVKcELyWogosDyNDVWTl69Uky3U41fsJcYxrXJoJvIZW3vTX85M+VNgAE1YAqCZlWiHafg3gfwSGRN2a+lreu75F3bnSSLaz3+XycumaSepcR9i9msS5vWCUl6mmwnQJHfN3avRxmyOt2FrdLRJtR8+Zg2kagGXOSqD87JJ7bLowz4ofbN5MmP1DTHRTyi5AcI7OtJJQwW8SWKZhdQflYxipv+q7CRk/T05Iv9AqAH1ozSirPZHPz97eMzl32PppYcWdHbtaeGk7OXzRXp+Q48d828r5QDpmeYyl70QbazvnBlZk/v7x8uzcG8HLhYQeJO9Ieezo08qd49taYZh6lePdDy4fB99GwCVRPoX4FN8HoBNvp6ivF4wtuyQlRPmXC9sr/5ry79BiJH3DzXsFLqOG5VQQfJ4/DVJmhSK98xUcA/wDoB5KkNg99pgAAAABJRU5ErkJggg==",
+    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAC4ElEQVQ4jW2TX2jVdRjGP+/v+zvbTuyE/6a4wpGrIdUuAi1SikBwozvTkZwrrZlEOrQFEkaMQiqJ1oouZjWCwsAouwhaqSBiUBd1kV5s05YyBCmDtXPOdn7n+3vft4stCfK5fXkuns/zPgLgIAIO4O92P47IAOY9JLRiDplWMR/H9H155fL5/3qEJflQ+x2sWj0C9NPQCdRPYfobGJh3YmxH2EAjHufv3w/KMAsA4iCMthfJ2r4jsIm69svgpc+4jfy19WVgjKg/Eq71MkSWCrjXVr1HE48wW98oRyZ/9SdI2XpPJ5quQXOnSW6g09fk1ekTPtj+C8VwkdpdI8L1feLHHthCS7hArVGWlyc+96Nd/SSyn1y7KUhCQ8EdMq1h9j1e20M93UZLepJqtjnFeZH5OLVovreHIB+CQ7RJor5O9Ax8HdgmzLuxQoeM/PGFDbRNImEwxWwbZh8AEL2DoFC3iGokZ5Y/58/L2M3KLQ5L3PJoXwb8QIJ4K3mcXDzrSSr5t2AFWuRBiv4NK5pv+ktrL/ih1YO+e9mypepcVKcELyWogosDyNDVWTl69Uky3U41fsJcYxrXJoJvIZW3vTX85M+VNgAE1YAqCZlWiHafg3gfwSGRN2a+lreu75F3bnSSLaz3+XycumaSepcR9i9msS5vWCUl6mmwnQJHfN3avRxmyOt2FrdLRJtR8+Zg2kagGXOSqD87JJ7bLowz4ofbN5MmP1DTHRTyi5AcI7OtJJQwW8SWKZhdQflYxipv+q7CRk/T05Iv9AqAH1ozSirPZHPz97eMzl32PppYcWdHbtaeGk7OXzRXp+Q48d828r5QDpmeYyl70QbazvnBlZk/v7x8uzcG8HLhYQeJO9Ieezo08qd49taYZh6lePdDy4fB99GwCVRPoX4FN8HoBNvp6ivF4wtuyQlRPmXC9sr/5ry79BiJH3DzXsFLqOG5VQQfJ4/DVJmhSK98xUcA/wDoB5KkNg99pgAAAABJRU5ErkJggg==",
     "placeholder": "搜狗搜索",
     "blocked": false
   },
   {
     "name": "GitHub",
     "url": "https://github.com/search?q=",
-    "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/github.svg",
+    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACpklEQVQ4jW2SwWvcVRSFv/ve+80kbUjJJDVSsKlx2iQtRXDTCnXhXgRx5cIuRDeKQjdCi4IrcaEIVitW/wFBUdxWlOqqgmIx1k4ik8SShmhjx6ImmXnvHhdJyFA8q/vgvns4373GlgwQwERz+uEYq2cDPCq4F2SGrTj2lXv+cHH+2hX6ZH11NTl9/A2D5y2EASQkCcDMDDPkWpd0vt366SzgOwMCNKvJ6YFPUqoec3fY+tc3f/cdYiDn3qft67NPASUCmpw68FatVjudc/6yqLxi2Fgw2+/yFUHHzCqhKyWXs0h7arX648MjY/Xba79fskPNmZMxpcsxVTH3uh+0W7MvAOnIkQfHu92/1gBKvd640WrdArqTU8ffTlX1Yim9zdwrp1KI8TkLoSYvGGQgAmVu7upyH5+b23mioezu0SzsCcGfCWY8giR3rW/08ntA2W7uB7xTl0zvAl7+RpKZnQrCDhhmoD+W29cXthu9j9wORQEstVq/CW6agWH3B8CEJBhqNJqDdznfLRsfHx8QDEtmMlIwYwmJYNYYGq1ObDul/4mQANX3jZ4MZvdIksFioPi3hADYP1VKH00cPjzDFsy7I+SDzaPHqhjPA1gwk/SNTTRnHkopfe/SO8HsvhDjE+7lcy/+2sLcz1cBDjaPHquq9LKkJ4PZXiBL8lLKibD06y8/SP5+ivGlbrf7upf8JmLo3818Z9e+u2FwOpjtlVgPMSbh7y7OX/sxAKFdNs/I/XJ9oP6xy7+T+7nVpdbORriR87JLqwAxxsGS8xftvHkOCH2gDg08MDV8MaTwtBdnbePOSGdxsQPQaDaHR9JgxywU93Kx3Zo9A3Rh6+q2KXfy7bXVz/aN7f/apFsrpXuJTicDrP/ZYGS0qpesVxfmZy+we2z8B+UDSXAnYXvkAAAAAElFTkSuQmCC",
     "placeholder": "Search GitHub",
     "blocked": false
   },
   {
     "name": "知乎",
     "url": "https://www.zhihu.com/search?type=content&q=",
-    "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/zhihu.svg",
+    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACcklEQVQ4jT3TTahVdRQF8N8+59yr5numZlmgQVQUUaOkkUKDoonRQIIgCMLyQYOa5CxMigZBDjIsIiyKjIqmFk0alDxq0CTpSUEiWYZUfqX3Xt85578bnFeDDXuyF2utvVbYn2PFS8aeFtbXI/oKFWqhQb0ylTQSav8Ib/vZC42pV8x5XidV9DNcI2MkhMxOBJCIaGVJ8+btdbsS9uZljTUqqVbvukd+cZLJFGNpLMT/jGikBqtQudzora1CKRPVw9vkwYfY+TFlAxrxyyW2rmf1eJDQhzhzlb+uSo35RqcgdPLRu0RTc/Qxevx6niMn2L+ds1OudOLODeL14/LFYzTrqKITZcrNm8WOW9j1AUtnefUbHjzEyXP8ORXbj7DjXb48JTeOhVZET5UdCssz7jvAsUVKEWcuMPmDi5PBwOmM9gpXe5kpdWQnGzkATGbs3sEN93PbJrmwTdy7SV7AtGWULKesioiCjuhFE5XMZbFlHXdfT92wcQ2/XVDmGtEWSiF6tEKuPLRFJ6tMjFg6ze435MKHXJzx/nfiucPy6BJrR3TLw0FfBsY6sheVHFBHYzTsfYDzE3loF089IrqW1Q2lZUSsbVYYdERHI2SEaK9w041i306eeE+c+pvPFsSTH8lrV/H9s6Ivcut6XlscjM2WJggtW67j02f4/DiffEu28uBXnPidO17m8OPywNf8cIZZhTFdq4rYkxezmNu8gVs3icWfpEpEkP2wq1doVysRbhRjhFmVvbesVp09JxZ/lOoh+2nwRAymRUU16E9FpVbrvNm4ZJ9KrbGnasyV8l/vkEMjFZFl0KwWKudNvOO0ff8CDNsVBiQlEB0AAAAASUVORK5CYII=",
     "blocked": false
   },
   {
     "name": "豆瓣",
     "url": "https://search.douban.com/book/subject_search?search_text=",
-    "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/douban.svg",
+    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABQElEQVQ4jWO0mOh64tkZBuKAhZQJI0O5IJGqYaBc0GNW8H8igMesYIZyQRYGBoZbr+7Ub28naPKtV3cYGBigThL4z0mMaz4wfmeBsLSldI/k7/j//z8jI+N/VEWMDAwMDAw2Ez2OPj/FwMDAgix3792Dok1lv39+ZWBhZ/jPwPD/N8O/f5NDpyoLK0IUCPznRNHAzsZ58NoxNGd8/fMTmYui4eev7woSSmgauFnYcWpQFla8UHwYm28xNFx9dtljVsiOtDV///8z6rLlYOVkYGD48fv7xfKj337/CJofc/XZZYj3ETacvHv8/ruHcgIyD988QDby5eeXO+/tE2DghAQ9E0T0A+P3D4zf117azMzEHGkaARGEMNZe2gxRADOhXHDy4VnEJI3Jh2dBk8aRByeEOYXw+xWijIGBgZHU5A0Arsa8Mw6SBsUAAAAASUVORK5CYII=",
     "placeholder": "书名、作者、ISBN",
     "blocked": false
   }
